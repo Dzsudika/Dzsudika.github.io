@@ -1,2 +1,2 @@
 # Dzsudika.github.io
-Demo for KVZoo page
+Demo Education
